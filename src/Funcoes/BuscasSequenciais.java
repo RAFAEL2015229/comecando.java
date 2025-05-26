@@ -15,7 +15,7 @@ public class BuscasSequenciais {
     }
     public static void main (String [] args) {
         int [] numeros = {10, 20, 30, 40, 50};
-        int ValorBuscado = 5;
+        int ValorBuscado = 50;
 
         int resultado = BuscaSequencial(numeros, ValorBuscado);
 
